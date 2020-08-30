@@ -42,9 +42,10 @@ You then need to adapt the function `createJsonFileContent` to match the value r
 
 On the script app go `Edit > Current project's triggers`
 Add a trigger with following values:
-  _Choose which function to run_: **onFormSubmit**
-  _Select event source_: **From Spreadsheet**
-  _Select event type_: **On Form submit**
+
+- _Choose which function to run_: **onFormSubmit**
+- _Select event source_: **From Spreadsheet**
+- _Select event type_: **On Form submit**
 
 ### Step 5: Test that your data is recieved correctly
 
